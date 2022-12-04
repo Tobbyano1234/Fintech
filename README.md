@@ -20,8 +20,8 @@ How To Install And Run The App
 clone the repo from the develop branch and run the following commands \*[x] Note: clone from develop branch for testing purpose
 
 install all dependencies
-npm
+ - npm
 compile all typescript before running the program
-npm run compile
-npm run start:publisher to send the datas to the client for publishing
-npm run start:client to print the datas on the console
+ - npm run compile
+ - npm run start:publisher to send the datas to the client for publishing
+ - npm run start:client to print the datas on the console
