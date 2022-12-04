@@ -19,8 +19,9 @@ The program you are supposed to developed should have the following range of fun
 How To Install And Run The App
 clone the repo from the develop branch and run the following commands \*[x] Note: clone from develop branch for testing purpose
 
-install all dependencies
+install all dependencies:
  - npm
+
 compile all typescript before running the program
  - npm run compile
  - npm run start:publisher to send the datas to the client for publishing
